@@ -1,4 +1,14 @@
-﻿using System;
+﻿/*
+ * En la universidad requieren que se desarrolle un software para la biblioteca en su sede de Bogota 
+ * la cual  permita administrar la entrega de libros a sus usuarios, para lo cual debe permitir la 
+ * entrega, devolución y conocer qué libros tiene determinado cliente.
+ * 
+ * Autor: Carlos Bermúdez
+ * 
+ */
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
